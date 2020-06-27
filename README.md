@@ -69,3 +69,5 @@ Play continues as described in Game 1, except that each player presses only his 
 If you press your color out of sequence or take more than 5 seconds to press, you'll hear the "RAZZ" sound and your color is out of the game.
 
 Simon will automatically begin a new game with only the remaining colors.
+
+## that's it for now, let's play the game now😀
