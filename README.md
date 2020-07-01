@@ -1,3 +1,6 @@
+# Simon Game🟥🟦🟩🟨
+## Project by [Hitik Saini](https://hitik20.tech/) 
+
 # What is it ?
 Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates, with software programming by Lenny Cope. The device creates a series of tones and lights and requires a user to repeat the sequence.
 
@@ -70,4 +73,4 @@ If you press your color out of sequence or take more than 5 seconds to press, yo
 
 Simon will automatically begin a new game with only the remaining colors.
 
-## that's it for now, let's play the game now😀
+## that's it for now, let's play the game😀
